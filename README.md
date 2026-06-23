@@ -1,44 +1,36 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B6F6,50:4FC3F7,100:B3E5FC&height=220&section=header&text=Joel%20Jaba%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Robotics%20and%20Automation%20Student%20%7C%20ROS2%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Autonomous+Mobile+Robots;ROS2+%7C+SLAM+%7C+Navigation2;Computer+Vision+%7C+AI+for+Robotics;Turning+Algorithms+Into+Autonomy" alt="Typing SVG" />
 
-<h3>Robotics & Automation Student | ROS2 Developer | Autonomous Systems Enthusiast</h3>
-
-<p>
-🚀 Autonomous Mobile Robots • 🗺️ SLAM • 👁️ Computer Vision • 🧠 AI • ⚙️ Embedded Systems
-</p>
 
 
 </div>
 
----
+## 🤖 About Me
 
-# 👋 About Me
+```yaml
+Name: Joel Jaba Singh
 
-🎓 B.Tech Robotics & Automation Student at Lovely Professional University (LPU)
+Education:
+  Degree: B.Tech Robotics & Automation
+  University: Lovely Professional University
 
-🤖 Passionate about Robotics, Autonomous Navigation, Computer Vision and AI.
+Role:
+  - Robotics & Automation Student
+  - ROS2 Developer
 
-🚀 Currently building Autonomous Mobile Robots using ROS2, Gazebo, Nav2 and SLAM Toolbox.
+Focus:
+  - Autonomous Mobile Robots
+  - ROS2 Development
+  - SLAM & Localization
+  - Navigation2
+  - Computer Vision
+  - AI for Robotics
+  - Embedded Systems
+  - Manufacturing Process
 
-🎯 Aspiring Robotics Software Engineer.
-
----
-
-# 🚀 Current Focus
-
-- ROS2 Jazzy
-- Autonomous Mobile Robots (AMR)
-- Navigation2 (Nav2)
-- SLAM Toolbox
-- MoveIt2
-- Computer Vision
-- Gazebo Simulation
-- Robot Localization
-- Embedded Systems
-
----
-
+```
 # ⚙️ Tech Stack
 
 ## Robotics
@@ -69,10 +61,21 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 
+---
 
-# 📫 Contact
+## 🌐 Connect With Me
 
-📧 joeljabasingh75@gmail.com
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-joelsingh75.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joelsingh75.vercel.app/)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_Here-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1HKhJ5_yHlJepoMQEomijM1JlhXFPa7E8/view?usp=drive_link)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joeljabasingh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joeljabasingh)
+[![Gmail](https://img.shields.io/badge/Gmail-joeljabasingh75-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeljabasingh75@gmail.com)
+
+</div>
 
 ---
 
