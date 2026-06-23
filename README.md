@@ -1,21 +1,85 @@
-# 💫 About Me:
-# 👋 Hi, I'm Joel Jaba Singh<br><br>🚀 Robotics & Automation Engineer | ROS 2 Developer | AI & Autonomous Systems Enthusiast<br><br>🎓 B.Tech in Robotics & Automation at Lovely Professional University (LPU)<br><br>---<br><br>## 🤖 About Me<br><br>I design and develop intelligent robotic systems that combine autonomous navigation, computer vision, artificial intelligence, and embedded systems.<br><br>My interests include:<br><br>🔹 Autonomous Mobile Robots (AMRs)  <br>🔹 ROS 2 & Robot Software Architecture  <br>🔹 SLAM & Navigation Systems  <br>🔹 Computer Vision & Perception  <br>🔹 Artificial Intelligence for Robotics  <br>🔹 Embedded Systems & IoT  <br>🔹 Industrial Automation<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Robotics<br>ROS 2 • Gazebo • Nav2 • SLAM Toolbox • RViz • URDF/Xacro<br><br>### Programming<br>Python • C++ • Linux • Git<br><br>### AI & Computer Vision<br>OpenCV • TensorFlow • Keras • Deep Learning • YOLO<br><br>### Embedded Systems<br>ESP32 • Arduino • Sensors • IoT Systems<br><br>### Design & Simulation<br>Fusion 360 • MATLAB • Simulink<br><br>---<br><br>## 🚀 Current Focus<br><br>Developing an **Autonomous Mobile Robot (AMR)** capable of:<br><br>✔ Autonomous Navigation  <br>✔ Real-Time Mapping (SLAM)  <br>✔ Obstacle Avoidance  <br>✔ Path Planning  <br>✔ Multi-Sensor Integration<br><br>using ROS 2, Gazebo, Nav2, and Computer Vision.<br><br>---<br><br>## 📚 Research<br><br>**Simulation Studies on Deep Learning Models for Intracranial Neoplasm Imaging Applications**<br><br>🔬 Achieved 98% classification accuracy using Deep Learning models on MRI datasets.<br><br>---<br><br>## 📈 GitHub Goals<br><br>Building real-world robotics projects focused on:<br><br>🤖 Autonomous Robots  <br>🏭 Warehouse Automation  <br>🚁 Intelligent Robotic Systems  <br>👁️ Robot Vision  <br>🧠 AI-Powered Robotics<br><br>---<br><br>## 🌟 Motto<br><br>*"Transforming code, sensors, and algorithms into intelligent machines that interact with the real world."*<br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B6F6,50:4FC3F7,100:B3E5FC&height=220&section=header&text=Joel%20Jaba%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Robotics%20and%20Automation%20Student%20%7C%20ROS2%20Developer&descAlignY=58&descSize=18"/>
+
+<h3>Robotics & Automation Student | ROS2 Developer | Autonomous Systems Enthusiast</h3>
+
+<p>
+🚀 Autonomous Mobile Robots • 🗺️ SLAM • 👁️ Computer Vision • 🧠 AI • ⚙️ Embedded Systems
+</p>
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joeljabasingh75@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Joelsingh61&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Joelsingh61&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Joelsingh61&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Joelsingh61&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
+
+🎓 B.Tech Robotics & Automation Student at Lovely Professional University (LPU)
+
+🤖 Passionate about Robotics, Autonomous Navigation, Computer Vision and AI.
+
+🚀 Currently building Autonomous Mobile Robots using ROS2, Gazebo, Nav2 and SLAM Toolbox.
+
+🎯 Aspiring Robotics Software Engineer.
+
+---
+
+# 🚀 Current Focus
+
+- ROS2 Jazzy
+- Autonomous Mobile Robots (AMR)
+- Navigation2 (Nav2)
+- SLAM Toolbox
+- MoveIt2
+- Computer Vision
+- Gazebo Simulation
+- Robot Localization
+- Embedded Systems
+
+---
+
+# ⚙️ Tech Stack
+
+## Robotics
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-3C3C3C?style=for-the-badge)
+![Nav2](https://img.shields.io/badge/Nav2-00599C?style=for-the-badge)
+![MoveIt2](https://img.shields.io/badge/MoveIt%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-4B8BBE?style=for-the-badge)
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## AI & Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+
+## Embedded Systems
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+
+
+# 📫 Contact
+
+📧 joeljabasingh75@gmail.com
+
+---
+
+<div align="center">
+
+### 🚀 Robotics Vision
+
+Building intelligent robots that can perceive, navigate and act autonomously.
+
+</div>
