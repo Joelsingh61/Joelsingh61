@@ -67,7 +67,7 @@ Focus:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-joelsingh75.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joelsingh75.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-joeljabasingh75.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joelsingh75.vercel.app/)
 [![Resume](https://img.shields.io/badge/📄_Resume-View_Here-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1F2k5_Thau7pME9JjV5OmLavLtIYXvO2j/view?usp=drive_link)
 
 <br/>
